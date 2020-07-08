@@ -1,0 +1,4 @@
+# Prisma Migrate lockfile v1
+
+20200707011153-create-table-user-and-favorite
+20200707204931-drop-description
